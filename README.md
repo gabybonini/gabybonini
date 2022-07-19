@@ -9,8 +9,8 @@
 
 <div align="center"> 
   <a href="https://github.com/gabybonini">
-  <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabybonini&layout=compact&langs_count=8&theme=radical"/>
-  <img height="155em" src="https://github-readme-stats.vercel.app/api?username=gabybonini&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/> 
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabybonini&layout=compact&langs_count=16&theme=radical"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=gabybonini&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/> 
   
 </div>
   <div align="center" valign="top"><br>
